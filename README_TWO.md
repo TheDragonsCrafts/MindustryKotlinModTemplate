@@ -60,7 +60,7 @@ displayName: "My Awesome Mod"
 author: "Your Name"
 
 # A short description of your mod.
-description: "This mod adds new and exciting content to Mindustry."
+description: "THIS MOD ADDS NEW AND EXCITING CONTENT TO MINDUSTRY. YOLOOOOO"
 
 # The version of your mod.
 version: "1.0"
